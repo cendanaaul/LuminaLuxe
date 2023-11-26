@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LuminaLuxe</string>
+    <string name="main">Beranda</string>
+    <string name="cart">Keranjang</string>
+    <string name="about">Profil</string>
+    <string name="luminaluxe">LuminaLuxe Skincare</string>
+    <string name="price">RP. %d</string>
+    <string name="share_buy_message">I have ordered something great in LuminaLuxe. Come on and get the discount</string>
+    <string name="total_ordered">Total Pesanan: RP. %d</string>
+    <string name="arrow_back">Kembali</string>
+    <string name="order_description">LuminaLuxe menyediakan jasa pengiriman sendiri yang aman untuk skincare Anda. Pengiriman dilakukan dengan hati-hati dan menggunakan pendingin bagi skincare yang tidak tahan panas.</string>
+    <string name="add_cart">Tambah ke Keranjang</string>
+    <string name="your_name">Your Name</string>
+    <string name="name">Cendana Putri Aulia</string>
+    <string name="email">Email</string>
+    <string name="email_acc">cendanaaulia871@gmail.com</string>
+    <string name="cari">Cari Skincare disini</string>
+</resources>
